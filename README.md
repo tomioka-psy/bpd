@@ -1,10 +1,12 @@
 # 境界性パーソナリティ症（BPD）「家族の手引き」日本語版
 
+## 📄 [**▶ タップして「家族の手引き」を読む（PDF・全17ページ）**](https://tomioka-psy.github.io/bpd/bpd-family-ja.pdf)
+
 Gunderson & Berkowitz による **Family Guidelines**（NEA-BPD: National Education Alliance for
 Borderline Personality Disorder）の日本語訳です。BPDのご家族・支援者・医療者向けの
 家族心理教育資料として公開しています。
 
-📄 **[家族の手引き 日本語版（PDF・全文）を開く](https://github.com/tomioka-psy/bpd/blob/main/bpd-family-ja.pdf)**
+［[PDFファイルをダウンロードして保存する](https://github.com/tomioka-psy/bpd/raw/main/bpd-family-ja.pdf)］
 
 ## 内容
 
